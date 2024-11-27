@@ -11,7 +11,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=50px />
 </p>
+<br>
+<h3> Let's Connect:</h3>
+<a href="https://www.linkedin.com/in/anasez/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=50px /></a>
 
+          
 
 
 
